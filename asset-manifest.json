@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hulu/static/css/main.5eb58fdf.css",
-    "main.js": "/hulu/static/js/main.c81739e9.js",
+    "main.css": "/hulu/static/css/main.e617edc6.css",
+    "main.js": "/hulu/static/js/main.d5ebd414.js",
     "static/js/453.3024a31e.chunk.js": "/hulu/static/js/453.3024a31e.chunk.js",
     "index.html": "/hulu/index.html",
-    "main.5eb58fdf.css.map": "/hulu/static/css/main.5eb58fdf.css.map",
-    "main.c81739e9.js.map": "/hulu/static/js/main.c81739e9.js.map",
+    "main.e617edc6.css.map": "/hulu/static/css/main.e617edc6.css.map",
+    "main.d5ebd414.js.map": "/hulu/static/js/main.d5ebd414.js.map",
     "453.3024a31e.chunk.js.map": "/hulu/static/js/453.3024a31e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5eb58fdf.css",
-    "static/js/main.c81739e9.js"
+    "static/css/main.e617edc6.css",
+    "static/js/main.d5ebd414.js"
   ]
 }
