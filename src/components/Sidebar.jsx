@@ -18,7 +18,7 @@ export default function Sidebar() {
       <Route path='/' />
     </Routes>
      <div className="flex fixed font-sans text-gray-900">
-       <aside className="flex h-screen w-[72px] flex-col items-center border-r border-gray-200 bg-white dark:bg-gray-900">
+       <aside className="flex h-screen w-[72px] flex-col items-center border-r border-gray-200 bg-red-400 dark:bg-gray-900">
          <div className="flex h-16 w-full items-center justify-center border-b border-gray-200">
             <h1 className="text-emerald-400 text-[26px] font-bold">hulu</h1>
          </div>
